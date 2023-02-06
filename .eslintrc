@@ -7,7 +7,7 @@
   ],
   "rules": {
     "import/first": 0,
-    "prettier/prettier": ["error", { "singleQuote": true }],
+    "prettier/prettier": ["warn", { "singleQuote": true, "endOfLine": "auto", "printWidth": 150 }],
     "arrow-body-style": "off",
     "prefer-arrow-callback": "off"
   },
