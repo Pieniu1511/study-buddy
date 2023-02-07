@@ -17,7 +17,7 @@ export const Wrapper = styled.li`
 `;
 
 export const StyledAverage = styled.div`
- width: 35px;
+  width: 35px;
   height: 35px;
   border-radius: 50px;
   display: flex;
@@ -42,7 +42,7 @@ export const StyledInfo = styled.div`
     color: ${({ theme }) => theme.colors.darkGrey};
   }
 
-  p:first-child{
+  p:first-child {
     align-items: center;
     font-weight: bold;
     font-size: ${theme.fontSize.l};

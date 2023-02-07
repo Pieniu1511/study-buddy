@@ -1,5 +1,5 @@
-import styled from "styled-components";
-import { theme } from "assets/styles/theme";
+import styled from 'styled-components';
+import { theme } from 'assets/styles/theme';
 
 export const StyledButton = styled.button`
   width: 25px;

@@ -1,5 +1,5 @@
-import styled from "styled-components";
-import { theme } from "assets/styles/theme";
+import styled from 'styled-components';
+import { theme } from 'assets/styles/theme';
 
 export const Wrapper = styled.div`
   background-color: ${theme.colors.lightGrey};
